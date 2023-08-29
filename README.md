@@ -1,5 +1,14 @@
-### Hi there 👋
+### Vinicius Uchino aqui!🙃
+Muito prazer! Esse é meu primeiro repositório aqui no GitHub!
+Tenho 18 anos, e atualmente estou cursando Análise e desenvolvimento de Sistemas na Fatec de Presidente Prudente.
+Se quiser me conhecer mais, acesse o meu instagram: [viniuchino](https://www.instagram.com/vinicius_uchino/)
 
+### Atualmente mais focado em:
+<div style="display inline">
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />          
+</div>         
 <!--
 **UchinoVini/UchinoVini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
